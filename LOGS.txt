@@ -1,0 +1,4 @@
+[2022-05-01T14:52:05.664707+02:00] PHP.INFO: Entrou na área restrita [] []
+[2022-05-01T14:52:08.246722+02:00] PHP.INFO: Entrou na área restrita [] []
+[2022-05-01T14:52:23.320129+02:00] PHP.INFO: Entrou na área restrita [] []
+[2022-05-01T14:52:32.026551+02:00] PHP.INFO: Entrou na área restrita [] []
